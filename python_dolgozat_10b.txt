@@ -12,3 +12,5 @@ hogy osztható-e (igen/nem) a szám 3-mal vagy 5-tel!
 
 5. Írj egy Python programot, amely bekér három számot a felhasználótól és kiírja a képernyőre,
 hogy a számok közül bármelyik kettőnek az összege egyenlő-e a harmadik számmal!
+
+Azért lötték le a facebookot mert irénke ezt is kirántota 
